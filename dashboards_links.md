@@ -2,7 +2,7 @@
 
 Here are the interactive dashboards published on Tableau Public:
 
-* \[Cyclistic Ride-Sharing Analytics Dashboard](https://public.tableau.com/views/Casestudygoogle/CyclisticRide-SharingAnalyticsDashboard)
+\- 📊 \[Cyclistic Ride-Sharing Analytics Dashboard](https://public.tableau.com/views/Casestudygoogle/CyclisticRide-SharingAnalyticsDashboard)
 
 
 
