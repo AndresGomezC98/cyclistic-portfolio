@@ -28,5 +28,5 @@ The analysis explores how **annual members and casual riders use Cyclistic bikes
 
 ## 📬 Contact
 - Your Name  
-- [LinkedIn](www.linkedin.com/in/andres-felipe-gomez-camelo)  
-- [Email](Andres98_gomezca@hotmail.com)  
+- [LinkedIn](https://www.linkedin.com/in/andres-felipe-gomez-camelo.)
+- [Email](mailto:Andres98_gomezca@hotmail.com)  
