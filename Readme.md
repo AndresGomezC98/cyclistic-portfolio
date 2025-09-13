@@ -13,7 +13,7 @@ The analysis explores how **annual members and casual riders use Cyclistic bikes
 - `assets/` → Supporting files (profile picture, etc.).
 
 ## 📑 Deliverables
-- [Cyclistic Case Study PDF](case_study/cyclistic_case_study.pdf)  
+- [📄 Download the Case Study PDF](case_study/Cyclistic_Case_Study_Google.pdf) 
 - [Tableau Dashboards](dashboards_links.md)  
 
 ## 🛠 Tools Used
@@ -26,7 +26,6 @@ The analysis explores how **annual members and casual riders use Cyclistic bikes
 - Annual members take shorter, more frequent rides, often during weekdays.  
 - Promotions and campaigns should target weekends and casual riders’ behaviors to drive memberships.  
 
-## 📬 Contact
-- Your Name  
+## 📬 Contact  
 - [LinkedIn](https://www.linkedin.com/in/andres-felipe-gomez-camelo)
 - [Email](mailto:Andres98_gomezca@hotmail.com)  
